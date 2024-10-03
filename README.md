@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Currently working on Cyber Security courses to upskill my ethical hacking skills.<br><br>Looking forward to working with a company, specifically in the Cyber Security department.<br><br>Looking for help from various courses like HBT academy.<br><br>Fun fact, managed to ethically hack into my schools private network with jus my mobile phone.
+Currently working on Cyber Security courses to upskill my ethical hacking skills.<br><br>Looking forward to working with a company, specifically in the Cyber Security department.<br><br>Looking for help from various courses like HTB academy.<br><br>Fun fact, managed to ethically hack into my schools private network with jus my mobile phone.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠒⠒⠲⠤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
