@@ -1,6 +1,34 @@
-# 👨‍💻 About Me:
-<br>I am currently enhancing my skills in Cyber Security through various courses, with a focus on ethical hacking. I am eager to join a company where I can contribute to the Cyber Security department and apply my knowledge in a practical setting.<br>I am actively learning from platforms such as HTB Academy to broaden my expertise. <br><br>A fun fact about me: I successfully performed an ethical hack on my school's private network using just my mobile phone.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+## Hi there, I'm Anonymousx46 👋
+<br>
+
+
+# 👨‍💻 About Me
+<br>
+ I'm a teenager based in Cape Town, South Africa, currently in high school but with a passion for Cyber Security and Web development. Here's a little more about my journey:
+ <br>
+
+I'm enhancing my skills in Cyber Security through various courses, focusing on ethical hacking. I'm eager to join a company where I can contribute to the Cyber Security department and apply my knowledge in a practical setting.
+<br>
+I'm actively learning from platforms like HTB Academy and TryHackMe to broaden my expertise.
+<br>
+I occasionally build fun and interactive websites as a hobby, but can also be for a business if asked.
+<br>
+
+**Fun Fact**: I successfully performed an ethical hack on my school's private network using just my mobile phone.
+<br>
+
+
+## Projects
+Checck Repositories for a few of my Web Projects.
+<br>
+
+## Contact
+<br>
+
+- 📫 How to reach me: anonymousx46@gmail.com
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠒⠒⠲⠤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⡀⠄⠤⠤⠤⠤⠤⠤⠤⠬⠽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
