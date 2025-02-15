@@ -1,9 +1,9 @@
 
-## Hi there, I'm Anonymousx46 👋
+# Hi there, I'm Anonymousx46 👋
 <br>
 
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 <br>
  I'm a teenager based in Cape Town, South Africa, currently in high school but with a passion for Cyber Security and Web development. Here's a little more about my journey:
  <br>
@@ -18,6 +18,9 @@ I occasionally build fun and interactive websites as a hobby, but can also be fo
 **Fun Fact**: I successfully performed an ethical hack on my school's private network using just my mobile phone.
 <br>
 
+## My Main Ethical Accomplice:
+@https://github.com/Anonymous545-lab
+
 
 ## Projects
 Checck Repositories for a few of my Web Projects.
@@ -28,7 +31,7 @@ Checck Repositories for a few of my Web Projects.
 
 - 📫 How to reach me: anonymousx46@gmail.com
 
-
+KALI LINUX~~"The quieter you become, the more you are able to hear"
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠒⠒⠲⠤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⡀⠄⠤⠤⠤⠤⠤⠤⠤⠬⠽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
