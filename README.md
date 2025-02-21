@@ -29,8 +29,9 @@ Check Repositories for a few of my Projects.
 
 ## Contact
 <br>
-
-- 📫 How to reach me: <a href="anonymousx46@gmail.com" target="_blank">Contact Email<a/>
+ <a href = "mailto: anonymousx46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+ <br>
 
 KALI LINUX~~"The quieter you become, the more you are able to hear"
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
