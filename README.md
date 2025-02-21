@@ -19,7 +19,7 @@ I occasionally build fun and interactive websites as a hobby, but can also be fo
 <br>
 
 ## My Main Ethical Accomplice:
-<a href="https://github.com/Anonymous545-lab" target="_blank">>My Compadre<<a/>
+<a href="https://github.com/Anonymous545-lab" target="_blank">My Compadre<a/>
 
 
 
@@ -30,7 +30,7 @@ Checck Repositories for a few of my Web Projects.
 ## Contact
 <br>
 
-- 📫 How to reach me: <a href="anonymousx46@gmail.com" target="_blank">>Contact Email<<a/>
+- 📫 How to reach me: <a href="anonymousx46@gmail.com" target="_blank">Contact Email<a/>
 
 KALI LINUX~~"The quieter you become, the more you are able to hear"
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
