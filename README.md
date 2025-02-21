@@ -19,12 +19,12 @@ I occasionally build fun and interactive websites as a hobby, but can also be fo
 <br>
 
 ## My Main Ethical Accomplice:
-<a href="https://github.com/Anonymous545-lab" target="_blank">My Compadre<a/>
+<a href="https://github.com/Anonymous545-lab" target="_blank">My Compadre <a/>
 
 
 
 ## Projects
-Checck Repositories for a few of my Web Projects.
+Check Repositories for a few of my Projects.
 <br>
 
 ## Contact
