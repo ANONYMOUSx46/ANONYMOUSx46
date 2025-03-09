@@ -30,6 +30,8 @@ Check Repositories for a few of my Projects.
 ## ✉️ Contact:
 <br>
  <a href = "mailto: anonymousx46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/liam-de-wet-42b80a355/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  </br>
  <br>
 
