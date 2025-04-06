@@ -18,10 +18,6 @@ I occasionally build fun and interactive websites as a hobby, but can also be fo
 **Fun Fact**: I successfully performed an ethical hack on my school's private network using just my mobile phone.
 <br>
 
-## 🤝My Main Ethical Accomplice:
-<a href="https://github.com/Anonymous545-lab" target="_blank">My Compadre <a/>
-
-
 
 ## 📂 Projects:
 Check Repositories for a few of my Projects.
